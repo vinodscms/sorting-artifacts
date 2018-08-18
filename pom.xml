@@ -6,7 +6,7 @@
 
   <groupId>ecom.mycompany.library</groupId>
   <artifactId>sorting-artifacts</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
 
   <name>sorting-artifacts</name>
   <url>https://github.com/vinodscms/my-hotels-app</url>
